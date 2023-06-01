@@ -1,6 +1,6 @@
 # 19CS406-EX-1 STUDY OF SOCKET PROGRAMMING WITH CLIENT-SERVER MODEL
 
-DATE :
+DATE :09/03/2023
 
 ## AIM :
 To implement socket programming date and time display from client to
@@ -58,7 +58,9 @@ CLIENT:
 
 ![2c](https://github.com/Vanisha0609/19CS406-EX-1/assets/119104009/84431cc5-2652-4cc3-9351-42c9f5342399)
 
+SERVER:
 
+![2s](https://github.com/Vanisha0609/19CS406-EX-1/assets/119104009/4ad85b2c-49b9-4eb1-b590-f77972d25aca)
 
 ## RESULT:
 Thus, the program to implement socket programming date and time display from client to 
