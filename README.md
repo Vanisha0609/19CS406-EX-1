@@ -56,7 +56,7 @@ s.send("acknowledgement recived from the server".encode())
 ## OUTPUT:
 CLIENT:
 
-![2c](https://github.com/Vanisha0609/19CS406-EX-1/assets/119104009/84431cc5-2652-4cc3-9351-42c9f5342399)
+![2c](https://github.com/Vanisha0609/19CS406-EX-1/assets/119104009/8e9f08d7-3867-4695-ae2f-22646fde3615)
 
 SERVER:
 
